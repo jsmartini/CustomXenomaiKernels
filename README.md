@@ -1,8 +1,1 @@
-# Sub2KTestbedXenomai
-
-Pre-Built Kernels for RPI for ARA Sub2k Liquid Rocket Engine Controls (Port to Xenomai)
-<br>
-kernel -> kernel resources
-<br>
-src -> sub 2k codebase
-
+# Custom Xenomai Kernels for ARM64 SBC's and AMD64 for development systems and deployment
